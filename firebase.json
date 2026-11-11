@@ -1,0 +1,28 @@
+{
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "trabalho-casseb",
+          "appId": "1:485617272447:android:4ef1afd72f45bba73b614a",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "trabalho-casseb",
+          "configurations": {
+            "android": "1:485617272447:android:4ef1afd72f45bba73b614a",
+            "web": "1:485617272447:web:039038bec5508f733b614a"
+          }
+        }
+      }
+    }
+  },
+  "remoteconfig": {
+    "template": "remoteconfig.template.json"
+  }
+}

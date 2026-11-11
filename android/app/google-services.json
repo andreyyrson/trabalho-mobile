@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "485617272447",
+    "project_id": "trabalho-casseb",
+    "storage_bucket": "trabalho-casseb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485617272447:android:4ef1afd72f45bba73b614a",
+        "android_client_info": {
+          "package_name": "br.cesupa.circuito_descobertas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAats3_EK99qrZ46qdnOA0JMX_YmubRShA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
